@@ -46,12 +46,14 @@ Masuk Direktori Folder Client
 ```bash
   cd client
 ```
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 Install Packages
 ```bash
   npm install
 ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Installation Backend
 Setelah proses installasi package frontend selesai, buka kembali terminal lalu masuk ke folder server
 ```bash

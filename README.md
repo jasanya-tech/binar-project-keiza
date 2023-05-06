@@ -44,7 +44,7 @@ Clone Repository using git bash
 
 Masuk Kedalam Derektori Repo
 ```bash
-  cd binar-project-yuyun
+  cd binar-project-keiza
 ```
 
 Masuk Direktori Folder Client
